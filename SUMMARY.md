@@ -2,7 +2,8 @@
 
 ## Kubernetes
 
-* [Shell Commands for CKA Test](README.md)
+* [CKA 자격증 취득 후기 (2025.01.29)](README.md)
+* [Shell Commands for CKA Test](<README (2).md>)
 
 ***
 
