@@ -16,6 +16,6 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## Group 1
+## Kubernetes
 
-* [Shell Commands for CKA Test](group-1/shell-commands-for-cka-test.md)
+* [Shell Commands for CKA Test](kubernetes/shell-commands-for-cka-test.md)
