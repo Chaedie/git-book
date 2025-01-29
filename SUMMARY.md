@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Welcome](README.md)
+## Kubernetes
+
+* [Shell Commands for CKA Test](README.md)
+
+***
+
+* [Welcome](<README (1).md>)
 
 ## Getting Started
 
@@ -15,7 +21,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-## Kubernetes
-
-* [Shell Commands for CKA Test](kubernetes/shell-commands-for-cka-test.md)
